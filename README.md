@@ -38,8 +38,8 @@ Me mueven el **frontend accesible**, los **jueguitos**, y aprender cosas nuevas 
 
 ### 📊 Mini-stats
 <p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Rizzoto3&show_icons=true&theme=radical&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizzoto3&layout=compact&theme=radical&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=rizzot0&show_icons=true&theme=radical&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizzot0&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
