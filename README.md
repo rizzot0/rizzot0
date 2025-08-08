@@ -29,11 +29,8 @@ Me mueven el **frontend accesible**, los **jueguitos**, y aprender cosas nuevas 
 ---
 
 ### ✨ Proyectos recientes
-- **📺 Clon Netflix** – Next.js + Tailwind + TMDB API · [Demo](https://landing-page-rizzoto.netlify.app/) · [Repo](https://github.com/Rizzoto3/netflix-clone)
-- **🧠 EnglishApp** – Vocab + spaced repetition · [Repo](https://github.com/Rizzoto3/english-app)
-- **🎮 Game Tracker** – Lista de juegos + rating retro · [Repo](https://github.com/Rizzoto3/game-tracker)
-
-> Más proyectos en la pestaña **Repos** y fijados en mi perfil.
+- **📺 Clon Netflix** – Next.js + Tailwind + TMDB API · [Demo](https://landing-page-rizzoto.netlify.app/) · [Repo](https://github.com/rizzot0/NetflixClone)
+- **🧠 EnglishApp** – Vocab + spaced repetition · [Demo](https://englishappca.netlify.app/)
 
 ---
 
