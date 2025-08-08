@@ -1,7 +1,8 @@
 <!-- Banner / portada -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=8B5CF6&text=Rizzo&fontColor=fff&fontAlignY=35&desc=Dev%20que%20ama%20cosas%20retro%20y%20pixeladas&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=8B5CF6&text=Rizzo&fontColor=fff&fontAlignY=50" />
 </p>
+
 
 
 ### 👋 ¡Hola! Soy rizzo
