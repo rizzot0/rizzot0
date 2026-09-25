@@ -23,13 +23,9 @@ Especializado en **Desarrollo Fullstack y Arquitectura de Software**, con foco e
 ### 🛠️ Stack Tecnológico
 
 * **Lenguajes:** TypeScript, JavaScript, Python, Java, C/C++ (fundamentos algorítmicos).
-* **Frontend:** React, Next.js, Angular, Tailwind CSS, Monaco Editor.
+* **Frontend:** React, Next.js, Angular, Tailwind CSS.
 * **Backend & APIs:** FastAPI, Node.js, Express, RESTful APIs, JWT Auth.
 * **Bases de Datos:** PostgreSQL, SQLite, MongoDB.
 * **DevOps & Cloud:** Docker, Docker Compose, Git/GitHub Actions, Vercel, Render.
 
----
 
-### 📍 Ubicación y Disponibilidad
-- **Residencia:** Coquimbo / La Serena, Chile (disponible para trabajo Remoto e Híbrido).
-- **Intereses:** Arquitectura de microservicios, optimización algorítmica, sistemas distribuidos y desarrollo de producto.
