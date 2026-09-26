@@ -1,6 +1,6 @@
 # Bastian Guerra | Software Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bastian_Guerra-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bastian-guerra/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bastian_Guerra-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bastian-guerra-a3b394144/)
 [![Portfolio](https://img.shields.io/badge/Portafolio_Web-rizzoto--studio-8B5CF6?style=for-the-badge&logo=vercel)](https://rizzot0.github.io/rizzoto-studio/)
 [![Email](https://img.shields.io/badge/Contacto-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bastianalonso92@gmail.com)
 
